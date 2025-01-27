@@ -1,4 +1,4 @@
-Please use node versiob 18 or higher.
+Please use node version 18 or higher.
 
 yarn
 yarn dev
